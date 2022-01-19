@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number_Base_Converter.iml" filepath="$PROJECT_DIR$/.idea/modules/Number_Base_Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/classes/java/Number_Base_Converter.Number_Base_Converter-task-build-classes-java.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/classes/java/Number_Base_Converter.Number_Base_Converter-task-build-classes-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/classes/kotlin/Number_Base_Converter.Number_Base_Converter-task-build-classes-kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/classes/kotlin/Number_Base_Converter.Number_Base_Converter-task-build-classes-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/generated/sources/annotationProcessor/java/Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/generated/sources/annotationProcessor/java/Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/generated/sources/headers/java/Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/generated/sources/headers/java/Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/reports/tests/Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/reports/tests/Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/test-results/Number_Base_Converter.Number_Base_Converter-task-build-test-results.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/test-results/Number_Base_Converter.Number_Base_Converter-task-build-test-results.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/tmp/Number_Base_Converter.Number_Base_Converter-task-build-tmp.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/build/tmp/Number_Base_Converter.Number_Base_Converter-task-build-tmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/out/Number_Base_Converter.Number_Base_Converter-task-out.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/out/Number_Base_Converter.Number_Base_Converter-task-out.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter.Topics-BigInteger-Max.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter.Topics-BigInteger-Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter.Topics-BigInteger-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter.Topics-BigInteger-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter.util.iml" />
+    </modules>
+  </component>
+</project>
