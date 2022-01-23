@@ -4,5 +4,4 @@ fun main() {
 
     val lcd = a * b / a.gcd(b)
     println(lcd)
-
 }

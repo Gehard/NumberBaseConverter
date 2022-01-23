@@ -2,12 +2,23 @@ package converter
 
 fun main() {
     do {
-        print("Do you want to convert /from decimal or /to decimal? (To quit type /exit)")
-        val choice = readLine()!!
-        if (choice == "/exit") {
+        print("Enter two numbers in format: {source base} {target base} (To quit type /exit)")
+        val (source, target) = readLine()!!.trim().split("\\s+".toRegex()).map (String::toString)
+
+        if (source == "/exit") {
             break
         }
-        if (choice == "/from") {
+        println("Enter number in base $source to convert to base $target (To go back type /back)")
+
+        if (source == "10") {
+            when(target.toInt()) {
+                2 -> println("Conversion result: ${Integer.toBinaryString(source.toInt())}")
+                8 -> println("Conversion result: ${Integer.toOctalString(source.toInt())}")
+                16 -> println("Conversion result: ${Integer.toHexString(source.toInt())}")
+            }
+
+        }
+        if (source == "/from") {
             print("Enter a number in decimal system:")
             val decimal = readLine()!!.toInt()
             print("Enter the target base:")
@@ -18,7 +29,7 @@ fun main() {
                 16 -> println("Conversion result: ${Integer.toHexString(decimal)}")
             }
 
-        } else if (choice == "/to") {
+        } else if (source == "/to") {
             print("Enter source number:")
             val n = readLine()!!
 
