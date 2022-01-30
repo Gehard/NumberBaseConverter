@@ -19,7 +19,7 @@ fun main() {
 
         }
         if (source == "/from") {
-            print("Enter a number in decimal system:")
+            print("Enter a number in decimal system:")m
             val decimal = readLine()!!.toInt()
             print("Enter the target base:")
             val base = readLine()!!.toInt()
