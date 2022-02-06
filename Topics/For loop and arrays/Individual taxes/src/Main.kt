@@ -1,7 +1,3 @@
-fun main() {
-    print(
-        Array(readLine()!!.toInt()) { readLine()!!.toInt() }
-            .map { it * readLine()!!.toDouble() }
-            .let { it.indexOf(it.maxOrNull()) + 1 }
-    )
-}
+fun main() = List(readLine()!!.toInt()) { readLine()!!.toInt() }.map { it * readLine()!!.toInt() }
+    .run { indexOf(maxOrNull()).inc() }
+    .run(::print)
