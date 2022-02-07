@@ -1,6 +1,10 @@
 package converter
 
 fun main() {
+
+    while ()
+
+
     do {
         print("Enter two numbers in format: {source base} {target base} (To quit type /exit)")
         val (source, target) = readLine()!!.trim().split("\\s+".toRegex()).map (String::toString)
@@ -9,17 +13,18 @@ fun main() {
             break
         }
         println("Enter number in base $source to convert to base $target (To go back type /back)")
+        val number = readLine()!!.toBigInteger()
 
         if (source == "10") {
             when(target.toInt()) {
-                2 -> println("Conversion result: ${Integer.toBinaryString(source.toInt())}")
-                8 -> println("Conversion result: ${Integer.toOctalString(source.toInt())}")
-                16 -> println("Conversion result: ${Integer.toHexString(source.toInt())}")
+                2 -> println("Conversion result: ${Integer.toBinaryString(number.toInt())}")
+                8 -> println("Conversion result: ${Integer.toOctalString(number.toInt())}")
+                16 -> println("Conversion result: ${Integer.toHexString(number.toInt())}")
             }
+        } else if (source == )
 
-        }
         if (source == "/from") {
-            print("Enter a number in decimal system:")m
+            print("Enter a number in decimal system:")
             val decimal = readLine()!!.toInt()
             print("Enter the target base:")
             val base = readLine()!!.toInt()
