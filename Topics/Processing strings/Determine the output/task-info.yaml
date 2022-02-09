@@ -1,11 +1,5 @@
 type: choice
 is_multiple_choice: false
-options:
-- text: niltoK ,olle
-- text: niltoK ,olleH
-- text: Hello, Kotlin
-- text: Kot ,olleH
-- text: iltoK ,olleH
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

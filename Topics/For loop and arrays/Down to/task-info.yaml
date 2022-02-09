@@ -1,10 +1,5 @@
 type: choice
 is_multiple_choice: false
-options:
-- text: To iterate through an array in reverse order.
-- text: To specify the offset between indexes.
-- text: To automatically print all elements of an array.
-- text: To go through all the elements in direct order.
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

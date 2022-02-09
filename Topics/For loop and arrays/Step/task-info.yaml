@@ -1,9 +1,5 @@
 type: choice
 is_multiple_choice: false
-options:
-- text: To specify the offset between indexes.
-- text: To specify the number of times the loop should run.
-- text: To exclude the selected index.
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

@@ -1,12 +1,5 @@
 type: choice
-is_multiple_choice: true
-options:
-- text: Expression style <code>if</code> must have <code>else</code> branch.
-- text: The <code>if-else-if</code> branch must end with an <code>else</code> branch.
-- text: We can not nest non expressional style <code>if</code> inside expressional
-    style one.
-- text: All expression style <code>if</code> branches must return the same type.
-- text: We can use <code>if-else-if-else</code> branch as an expression.
+is_multiple_choice: false
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

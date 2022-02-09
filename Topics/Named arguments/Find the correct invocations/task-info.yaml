@@ -1,10 +1,5 @@
 type: choice
-is_multiple_choice: true
-options:
-- text: checkEqual(s2 = "abc", s1 = "aBc")
-- text: checkEqual("abc", "ABC", ignoreCase = true)
-- text: checkEqual(ignoreCase = true, "abc", "ABC")
-- text: checkEqual(s1 = "abc", s2 = "aBc", true)
+is_multiple_choice: false
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
