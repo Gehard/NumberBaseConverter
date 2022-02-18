@@ -1,1 +1,1 @@
-val color = Regex("colou?rs?")
+    val color = Regex("colou?rs?")

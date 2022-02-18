@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/495737/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Sun, 13 Feb 2022 13:41:13 UTC
+update_date: Fri, 18 Feb 2022 11:29:22 UTC
 stages:
 - id: 856
   step: 12345
@@ -21,10 +21,10 @@ topics:
   0:
   - title: Binary numbers
     theory_id: 5544
-  - title: Converting from decimal to binary
-    theory_id: 5614
   - title: Hexadecimal numbers
     theory_id: 8788
+  - title: Converting from decimal to binary
+    theory_id: 5614
   - title: Octal numbers
     theory_id: 11949
   - title: Units of information
@@ -45,12 +45,6 @@ topics:
     theory_id: 4455
   - title: Standard output
     theory_id: 4425
-  - title: Arithmetic operations
-    theory_id: 4472
-  - title: Boolean and logical operations
-    theory_id: 4515
-  - title: Increment and decrement
-    theory_id: 10776
   - title: Invoking functions
     theory_id: 4575
   - title: Standard input
@@ -59,16 +53,22 @@ topics:
     theory_id: 4672
   - title: Reading data with a readLine
     theory_id: 11224
-  - title: Type of the numeric expression
-    theory_id: 9506
-  - title: Integers in action
-    theory_id: 4488
-  - title: Relational operators
-    theory_id: 4525
   - title: String basics
     theory_id: 12553
   - title: String templates
     theory_id: 4547
+  - title: Boolean and logical operations
+    theory_id: 4515
+  - title: Arithmetic operations
+    theory_id: 4472
+  - title: Type of the numeric expression
+    theory_id: 9506
+  - title: Increment and decrement
+    theory_id: 10776
+  - title: Integers in action
+    theory_id: 4488
+  - title: Relational operators
+    theory_id: 4525
   - title: If expression
     theory_id: 4625
   - title: Repeating blocks
@@ -84,20 +84,16 @@ topics:
     theory_id: 4419
   - title: Naming variables
     theory_id: 4389
-  - title: Objects
-    theory_id: 11233
   - title: Declaring functions
     theory_id: 4580
+  - title: Objects
+    theory_id: 11233
   - title: Equality
     theory_id: 11236
   - title: Unicode
     theory_id: 7899
   - title: Characters
     theory_id: 4680
-  - title: Working with strings
-    theory_id: 12561
-  - title: Getting substrings
-    theory_id: 8535
   - title: Ranges
     theory_id: 4633
   - title: For loop and ranges
@@ -108,6 +104,10 @@ topics:
     theory_id: 14902
   - title: For loop and lists
     theory_id: 15022
+  - title: Working with strings
+    theory_id: 12561
+  - title: Getting substrings
+    theory_id: 8535
   - title: Processing strings
     theory_id: 9027
   2:
