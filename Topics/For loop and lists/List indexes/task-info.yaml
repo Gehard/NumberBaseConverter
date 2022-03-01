@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: mutList.indices
-- text: mutList.getIndexes()
 - text: mutList.rangeOf(0..mutList.size)
+- text: mutList.getIndexes()
 - text: mutList.indexes
+- text: mutList.indices
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
